@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pracmod:p_banana"
+    }
+  },
+  "result": {
+    "item": "pracmod:emo_minon"
+  }
+}
